@@ -2,7 +2,7 @@
 URL Shortener 만들기 <br>
 
 -------미 진행중------- <br>
--------Url Shortener 만들게 되면 그때 정보수집 시작(유명한 Url Shortener (ex)goo.gl,biy.ly) <br>
+-------Url Shortener 만들게 되면 그때 정보수집 시작(유명한 Url Shortener (ex)goo.gl,bit.ly) <br>
 
 http://gg.gg/ <br>
 ㄴ 관련사이트 : http://norefs.com/ <br> 
