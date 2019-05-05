@@ -3,6 +3,16 @@ URL Shortener 만들기 <br>
 https://www.one-tab.com/page/hKr-52JnSVSASQxvHjzPcQ <br>
 https://www.one-tab.com/page/s44r2PN0Q_eaBLPm1NlYHg<br>
 
+
+--------- Freenom 서비스 이용 --------------
+https://bit.ly/2vGFyKE <br>
+
+http://www.freenom.com/en/developers.html <br>
+
+블로그글 : .TK 를 이용해 단축 도메인 만들기 <br>
+(매우 쉬운편!) <br>
+
+
 -------미 진행중------- <br>
 -------Url Shortener 만들게 되면 그때 정보수집 시작(유명한 Url Shortener (ex)goo.gl,bit.ly) <br>
 
